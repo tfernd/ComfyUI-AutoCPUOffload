@@ -53,4 +53,4 @@ As this is a work in progress, contributions and feedback are welcome. Please fe
 
 ## License
 
-This project is licensed under the MIT License - see the `LICENSE` file for details.
+See the `LICENSE` file for details.
